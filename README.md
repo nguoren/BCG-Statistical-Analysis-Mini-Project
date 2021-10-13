@@ -18,3 +18,7 @@
 - Increase Y-o-Y revenue from in-game purchase by increasing retention rate of players
 #### b. Analytics Objective
 - Test CEO's hypothesis whether reducing difficulty level of game will increase retention rate of players
+
+## Achievement
+<img src=https://i.imgur.com/AyFwd27.png>
+Perfect Score: 100/100
