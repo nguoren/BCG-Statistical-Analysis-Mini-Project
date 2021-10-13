@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/njDaHn0"></p>
+<p align="center"><img src="https://i.imgur.com/njDaHn0.png"></p>
 
 # Statistical Analysis Mini Project
 - Generate statistical summary of data sets and perform exploratory data analysis
