@@ -3,6 +3,7 @@
 # Statistical Analysis Mini Project
 - Generate statistical summary of data sets and perform exploratory data analysis
 - Test of significance - statistical hypothesis testing (A/B-Test) between TWO(2) groups of data
+LINK: https://github.com/nguoren/Statistical-Analysis-Mini-Project/blob/main/Mini_project_2%20Team%201.ipynb
 
 ## Introduction: Cookie Cats
 - Popular mobile puzzle game
